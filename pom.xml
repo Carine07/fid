@@ -77,7 +77,7 @@
 		  <archive>
 			<manifest>
 			  <addClasspath>true</addClasspath>
-			  <mainClass>com.mycompany.app.App</mainClass>
+			  <mainClass>fr.fiducial.app.App</mainClass>
 			</manifest>
 		  </archive>
 		</configuration>
